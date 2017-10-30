@@ -1,0 +1,6 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.reborn.app</groupId>
+	<artifactId>build/RebornApi-0.1</artifactId>
+	<version>1</version>
+</project>
